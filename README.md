@@ -38,3 +38,6 @@ Adicionalmente, buscar informações importantes que estão ocultas nos dados, c
 ![ranking_produtos](ranking_produtos.JPG)
 
 ![graficos](gráficos-rfm.JPG)
+
+![Gráfico de Vendas](imagens/grafico.png)
+
