@@ -41,3 +41,8 @@ Adicionalmente, buscar informações importantes que estão ocultas nos dados, c
 
 ![Gráfico de Vendas](imagens/grafico.png)
 
+git add README.md                # Adiciona o README.md para staging
+git commit -m "Adiciona imagem ao README"   # Commita as mudanças com uma mensagem descritiva
+git push origin main            # Envia as alterações para o repositório remoto 
+
+
