@@ -1,4 +1,4 @@
-<h1 style="font-size: 24px;">Segmentação</h1>
+<h1 style="font-size: 36px;">Segmentação</h1>
 
 **Contexto**
 O Mercado enfrenta dificuldades de adaptação às novas preferências dos seus clientes e não tem uma estratégia eficaz para segmentar a sua base de clientes. Isto levou a uma perda de oportunidades de vendas e a um investimento ineficiente em marketing. Para a empresa, é fundamental abordar esses desafios para alcançar o crescimento sustentável, maximizar a lucratividade e identificar onde investir esforço.
