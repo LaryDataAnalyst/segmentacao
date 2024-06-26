@@ -28,3 +28,5 @@ Adicionalmente, buscar informações importantes que estão ocultas nos dados, c
 - Aplicar técnicas de análise.
 - Construção de dashboard.
 - Apresentação de resultados para as partes interessadas.
+
+![Faturamento Anual](imgagens/faturamento-anual.JPG)
