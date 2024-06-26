@@ -29,4 +29,12 @@ Adicionalmente, buscar informações importantes que estão ocultas nos dados, c
 - Construção de dashboard.
 - Apresentação de resultados para as partes interessadas.
 
-![Faturamento Anual](imgagens/faturamento-anual.JPG)
+![faturamento Anual](imgagens/faturamento-anual.JPG)
+
+![idade](imgagens/hipoteses-idade.PNG)
+
+![online/loja](imgagens/online-loja.JPG)
+
+![rankinh_produtos](imgagens/ranking_produtos.JPG)
+
+![graficos](imgagens/gráficos-rfm.JPG)
